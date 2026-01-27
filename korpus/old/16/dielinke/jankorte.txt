@@ -1,0 +1,295 @@
+~~~ 
+Jan Korte   28.09.2006  16054.xml
+ Um es gleich vorweg zu
+sagen: Ich finde diesen – zugegebenermaßen etwas
+kleinteiligen – Antrag der Grünen unterstützenswert.
+
+Deutscher Bundestag – 16. Wahlperiode – 54. Sitzung. Berlin, Donnerstag, den 28. September 2006 5339
+
+(A) (C)
+
+(B) (D)
+Angesichts spektakulärer Datenschutzpannen in der Ver-
+gangenheit ist eine Informationspflicht für Unternehmen
+absolut notwendig. Es handelt sich dabei selten um Ka-
+valiersdelikte oder Bagatellen, sondern wir haben es mit
+der hoch technisierten und automatisierten Datenverar-
+beitung, die auch schon kleinste Unternehmen betreiben,
+mit einem Kernbereich schutzwürdiger Belange von
+Bürgerinnen und Bürgern zu tun. Auf der einen Seite
+geht es um das Vertrauen, dass ich als Kunde meine Da-
+ten in gute Hände gebe. Auf der anderen Seite geht es
+um das Recht auf informationelle Selbstbestimmung,
+also das Recht, selbst entscheiden zu können, welche In-
+formationen ich öffentlich mache und wie ich damit in
+der Öffentlichkeit wahrgenommen werden will.
+
+Vor diesem Hintergrund ist es beispielsweise bedenk-
+lich, dass das Berliner Verwaltungsamt mit den Abrech-
+nungen von Pensionären sensible Daten anderer Pensio-
+näre verschickte. Ursache war eine Computerpanne.
+
+In Kiel warfen Mitarbeiter eines Klinikums ärztliche
+Atteste, Anschriften von therapierten Kindern, interne
+Dokumente mit Patientendaten und ganze Krankheits-
+verläufe in eine öffentlich zugängliche Mülltonne, an-
+statt diese Unterlagen zu schreddern.
+
+2001 konnten Sparkassenkunden, die sich in das On-
+line-Banking einloggten, gleich die Kontodaten zahlrei-
+cher anderer Kunden betrachten.
+
+Die Protokolle einer Notenkonferenz mit Hinweisen
+wie „Wolfgang kriegt keinen ordentlichen Satz zu Pa-
+pier“ oder „Fritzchen stand kurz vor dem Selbstmord“
+fanden sich auf einem ungesicherten Laufwerk einer
+Schule und wurden als Pausengag auf dem Schulhof ver-
+teilt.
+
+Im Microsoft-Fanshop konnte man im Jahr 2000
+durch kleine Änderungen in der Browserzeile auf Daten
+anderer Kunden des Shops zugreifen.
+
+Erst im April geriet der DSL-Anbieter „DSL on Air“
+in die Kritik, weil selbst technisch unbegabte Menschen
+auf komplette Kundendaten einschließlich Auftragssta-
+tus und Bankverbindung nicht nur zugreifen, sondern
+auch Änderungen vornehmen konnten.
+
+Diese Beispiele zeigen, dass die mit treuen Augen ab-
+gegebenen Versprechen vieler Unternehmen, sorgsam
+und verantwortungsbewusst mit Kundendaten umzuge-
+hen, oft das Papier nicht wert sind, auf dem sie geschrie-
+ben sind. Vor diesem Hintergrund scheint es mir sinn-
+voll, analog zu den gerade diskutierten Regelungen in
+Sachen Gammelfleisch, Kunden und die allgemeine Öf-
+fentlichkeit nicht darüber in Unkenntnis zu lassen, wer
+fahrlässig mit den ihm anvertrauten Daten umgeht.
+
+Wie beim Gammelfleisch kann eine solche Informa-
+tionspflicht jedoch nur eine Seite der Medaille sein, weil
+dann das Kind sozusagen schon in den Brunnen gefallen
+ist. Wir müssen dafür Sorge tragen, dass der Datenschutz
+nicht als lästiges Hindernis auf dem Weg zu Gewinnen
+angesehen wird, sondern als Teil der Qualitätsphiloso-
+phie und der Verantwortung den Partnern des Unterneh-
+mens gegenüber. Daher bedarf es noch weiterer Schritte.
+Schlampigkeit wie Vorsätzlichkeit muss nicht nur
+bußgeldbewehrt sein. Es müssen auch klare und vor al-
+lem weiter gehende Regelungen zu Schadensansprüchen
+und Haftung getroffen werden. Die einschlägigen Rege-
+lungen im TMG reichen bei weitem nicht aus, wie der
+Fall eines Frauenhauses in der Nähe von Tübingen
+zeigte. Dort hatte die Telekom die Anschrift des Frauen-
+hauses trotz Sperrvermerk im Telefonbuch veröffentlicht
+und die Daten an zahlreiche Adresshändler verkauft. Das
+Frauenhaus musste schließen, die Bewohnerinnen und
+ihre Kinder wurden kurzerhand in städtische Wohnun-
+gen und andere Frauenhäuser umquartiert. Der Verein
+stand daraufhin vor dem Aus, weil der Schaden, den die
+Schlampigkeit der Telekom verursachte, deutlich in den
+sechsstelligen Bereich ging. Natürlich weigerte sich die
+Telekom, Schadensersatz zu leisten, weil man der Mei-
+nung war, dass der Verrat von Kundengeheimnissen zum
+Lebensrisiko gehört. Ein Telekommanager ließ sich so-
+gar damit zitieren, dass es doch ganz gut sei, wenn das
+Frauenhaus nun bekannter sei. In solch gravierenden
+Fällen muss nicht nur ein Schadensersatz fällig sein,
+sondern auch eine saftige Strafe.
+
+Es gibt also noch viel zu tun. Das Problem ist doch,
+dass die Novelle des Datenschutzrechts 2001 in einem
+guten Ansatz stecken geblieben ist. Gerade von den Kol-
+leginnen und Kollegen der Grünenfraktion würde ich
+mir da das eine oder andere selbstkritische Wort wün-
+schen. Wir brauchen das Auditgesetz, wir brauchen eine
+Vernetzung der Kontrollinstanzen, die Stärkung der be-
+trieblichen und behördlichen Datenschutzbeauftragten,
+das Arbeitnehmerdatenschutzgesetz und vieles andere
+mehr.
+
+Was wir aber vor allem brauchen, ist die Einsicht der
+Bundesregierung, dass nicht nur für private Stellen, son-
+dern auch und gerade für staatliche Stellen der Umgang
+mit Daten sensibel ist und dass der Datenschutz eine
+hohe Wertschätzung verdient. Tatsächlich ist der Staat
+aber die übelste Datenkrake von allen. Im Falle des
+Lauschangriffs, des neuen Reisepasses oder der Anti-
+terrordatei ist es Vorsatz. Bei der Vorratsdatenspeiche-
+rung treffen sich Vorsatz und Schlampigkeit. Im Falle
+der skandalösen Datenschutzlücken beim Arbeitslosen-
+geld II und der Software A2LL ist es schlicht Schlam-
+pigkeit, gepaart mit einer ordentlichen Portion Ignoranz.
+Mit der Volkszählung wird die Koalition dem Ganzen
+vermutlich noch die Krone aufsetzen.
+
+Was wir also brauchen, ist die Einsicht, dass Daten
+schützenswert sind und dass man den Datenschutz nicht
+einfach unter der Überschrift „Bürokratieabbau“ über
+Bord wirft, wie es die große Koalition gerade tut. Leider
+kann der Deutsche Bundestag eine solche Einsicht nicht
+beschließen. Aber wir sollten uns wenigstens an unsere
+eigenen Beschlüsse erinnern, wie zum Beispiel an Bun-
+destagsdrucksache 14/9490 – Entschließung zum 18. Tä-
+tigkeitsbericht des Bundesdatenschutzbeauftragten –,
+Bundestagsdrucksache 14/9709 – Beschluss „Umfas-
+sende Modernisierung des Datenschutzes“ – oder die
+Entschließung zum 19. Tätigkeitsbericht des Daten-
+schutzbeauftragten auf Bundestagsdrucksache 15/4597.
+
+5340 Deutscher Bundestag – 16. Wahlperiode – 54. Sitzung. Berlin, Donnerstag, den 28. September 2006
+
+(A) (C)
+
+(B) (D)
+Dann müssten wir hier nicht zu später Stunde klein-
+teilige Anträge diskutieren, sondern schafften ein moder-
+nes Datenschutzrecht, das diesen Namen auch verdient,
+indem es den Datenschutz im Steuerrecht, in der Gen-
+technik und den Arbeitnehmerdatenschutz realisiert, da-
+tenschutzgerechte Technik fordert und vor allem gleiche
+Schutzniveaus in allen Bereichen herstellt. Schauen Sie
+dazu einmal in den 20. Tätigkeitsbericht des Bundesda-
+tenschutzbeauftragten. Auf Seite 22 sind die bekannten
+Vorschläge alle aufgelistet. Aber wie ich hörte, gibt es
+im Innenausschuss schon Mitglieder, die diesen Tätig-
+keitsbericht nicht einmal diskutieren wollen, weil er
+schon so lange zurückliegt, der neue bald kommt und
+man ja nicht für nichts und wieder nichts die Auseinan-
+dersetzung mit diesem Bericht behindert haben will.
+
+Sie sehen, Teil des Problems sind also nicht nur die
+Unternehmen, sondern auch der Staat selbst, der nicht
+nur nicht mit gutem Beispiel vorangeht, sondern sich
+selbst als Datenschleuder betätigt. Auch in diesem Sinne
+bin ich dafür, nicht nur privatwirtschaftliche Sünder zu
+benennen, sondern beispielsweise Innenminister
+Schäuble in einer wöchentlichen Datenschutzbeichte so
+lange öffentlich auftreten zu lassen, bis auch der letzte
+verstanden hat, dass wir mit dem Datenschutz endlich in
+die Pötte kommen müssen.
+
+Silke Stokar von Neuforn (BÜNDNIS 90/DIE
+GRÜNEN): Deutschland war nach dem grundlegenden
+Volkszählungsurteil des Bundesverfassungsgerichts lange
+Jahre Vorreiter in Sachen Datenschutz. Einiges davon ist
+bis heute geblieben. Denken wir nur an die unabhängige
+Rolle des Bundesdatenschutzbeauftragten. Wir haben
+hier Standards gesetzt für die europäische Rechtsent-
+wicklung.
+
+Allerdings ist unser Datenschutzrecht vielfach
+schlicht in die Jahre gekommen. So nimmt unser Gesetz
+noch nicht hinreichend auf, dass eine immer größere Ge-
+fahr für das Recht auf informationelle Selbstbestimmung
+gerade auch von nichtöffentlichen Stellen ausgeht.
+
+National und international steigt die Zahl der so ge-
+nannten Identitätsdiebstähle. Die Fälle von Kreditkarten-
+betrug durch die missbräuchliche Verwendung von Iden-
+tifizierungsdaten nehmen immer größere Ausmaße an.
+Durch das so genannte Pishing im Online-Banking ent-
+steht pro Jahr ein grob geschätzter Schaden von 4,5 Mil-
+lionen Euro. Wir wollen sicherstellen, dass Angriffe auf
+die IT-Systeme von Unternehmen, die mit personenbe-
+zogenen Daten arbeiten, umgehend an die Kunden ge-
+meldet werden müssen. Wir brauchen hier mehr Trans-
+parenz, wir müssen die Schutzrechte der Betroffenen
+stärken und Anreize setzen auf mehr präventive Datensi-
+cherheit in den Unternehmen. Der Markt allein wird dies
+nicht regeln. Das deutsche Datenschutzrecht ist hier
+nicht mehr auf der Höhe der technischen und wirtschaft-
+lichen Entwicklung. Die Benachrichtigungspflichten des
+§ 20 BDSG sowie die damit eng zusammenhängenden
+Berichtigungsansprüche in § 35 des Bundesdatenschutz-
+gesetzes beinhalten zu viele Ausnahmetatbestände. Ob-
+wohl mit der Novelle des Gesetzes nunmehr in § 7 ein
+eigenständiger Schadensersatzanspruch des Betroffenen
+besteht, greift auch dieser zu kurz. Die Beweispflicht für
+Sorgfaltspflichtverletzungen liegt bei dem Betroffenen.
+Es ist an der Zeit, diesen Umstand zu ändern. Ich sage
+das ganz offen: Es wäre das Beste, nicht am bestehenden
+Gesetz herumzuflicken, sondern die weit gediehenen
+Vorarbeiten für ein völlig neues Datenschutzgesetz auf-
+zugreifen. Ich hoffe sehr auf ein Signal des Bundesin-
+nenministers, hier entschlossen voran zu gehen.
+
+Andere Länder sind beim Schutz der Konsumenten
+schon weiter. Das gilt in bestimmten Fällen sogar für
+einzelne Bundesstaaten der USA. Da reibt man sich ver-
+wundert die Augen. Während wir etwa bei der Behand-
+lung der Flugdaten europäischer Passagiere oder beim
+Geldtransfer riesige Probleme mit den Vereinigten Staa-
+ten haben, ist Arnold Schwarzenegger hier Wolfgang
+Schäuble voraus.
+
+Der so genannte Security Breach Information Act des
+US-Bundesstaats Kalifornien gilt dort bereits seit dem
+1. Juli 2003. Wer als Unternehmen geschäftliche Kon-
+takte zu Bürgern dieses Bundesstaats unterhält, muss
+seine Kunden über Datenschutzpannen sofort informie-
+ren. Ist die vertrauliche Behandlung personenbezogener
+Daten nicht mehr gewährleistet, muss das Unternehmen
+reagieren, sonst kann es sich sogar schadensersatzpflich-
+tig machen. Diese gesetzliche Neuregelung hat für an-
+dere US-Bundesstaaten bereits  eine Vorbildfunktion
+übernommen. In der Praxis haben diese Gesetzeswerke
+dazu geführt, dass Informationen über solche Verletzun-
+gen mehr und mehr öffentlich bekannt gemacht werden.
+
+Wir haben einen Antrag im Bundestag eingebracht, der
+die Grundgedanken der US-Regelungen aufgreift. Auch
+bei uns sollen zum Schutz der Verbraucherinnen und Ver-
+braucher hier tätige Unternehmen zu einer umfassenden
+Bekanntmachung von Datenschutzpannen verpflichtet
+werden. Wir fordern, dass Unternehmen bei fahrlässigem
+Umgang mit personenbezogenen Daten ihrer Kunden zi-
+vilrechtlich Schadensersatz leisten müssen. Diese Verlet-
+zungen ihrer Sorgfaltspflicht gilt für die  Erhebung, Spei-
+cherung und Verwertung personenbezogener Daten der
+betroffenen Personen. Mit einer bloßen Verpflichtung al-
+lein ist es aber nicht getan.  Das Gesetz sollte – nach einer
+Übergangsphase – den Datenschutzaufsichtsbehörden
+auch die Möglichkeit geben, Ordnungswidrigkeitenver-
+fahren für besonders renitente Unternehmen zu verhän-
+gen, die grob fahrlässig ihre Schutzpflichten verletzen
+und ihren Transparenzverpflichtungen nicht nachkom-
+men.
+
+Wir sind davon überzeugt, dass wir hier auch einen
+wirksamen Beitrag zu Kriminalitätsbekämpfung leisten
+können, weil mehr Sorgfalt und Transparenz bei den Un-
+ternehmen den kriminellen Nutznießern von zu niedri-
+gen Sicherheitsstandards das Handwerk legt. Die Men-
+schen müssen wissen, wann die Gefahr besteht, dass mit
+ihren Daten Missbrauch getrieben werden kann. Ich er-
+innere auch hier an die USA, wo solche staatlichen
+Sanktionen durch die Handels- und Wettbewerbsbehörde
+Federal Trade Commission, die Federal Communica-
+tions Commission oder die Bankenaufsicht verhängt
+werden können.
+
+Deutscher Bundestag – 16. Wahlperiode – 54. Sitzung. Berlin, Donnerstag, den 28. September 2006 5341
+
+(A) (C)
+
+(B) (D)
+Ich hoffe, die Regierungsfraktionen zeigen sich in den
+Fachausschüssen offen für die Debatte dieses neuen An-
+satzes. Die Innovation in der Informationsgesellschaft
+muss einhergehen mit der Modernisierung des Daten-
+schutzrechtes.
+
+Anlage 17
+
+Zu Protokoll gegebene Reden
+
+zur Beratung des Entwurfs eines Gesetzes zur
+Einführung einer Biokraftstoffquote durch Än-
+derung des Bundes-Immissionsschutzgesetzes
+und zur Änderung energie- und stromsteuer-
+rechtlicher Vorschriften (Biokraftstoffquotenge-
+setz – BioKraftQuG) (Tagesordnungspunkt 25)
+
+
+~~~

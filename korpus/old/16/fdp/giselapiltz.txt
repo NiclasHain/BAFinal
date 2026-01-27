@@ -1,0 +1,144 @@
+~~~ 
+Gisela Piltz   16.10.2008  16183.xml
+ Der neue Slogan für den elektro-
+nischen Personalausweis klingt vielversprechend: klei-
+ner, vielseitiger, zukunfts- und fälschungssicher. Der
+Ausweis fürs Internet – so preist die Große Koalition ihr
+neustes Projekt an. Mit dem E-Personalausweis soll ein
+Standard-Identitätsnachweis für das Internet geschaffen
+werden. Ja, es wird gar von einer Revolution gespro-
+chen. Phishing soll eingedämmt, Interneteinkäufe und
+Behördengänge sollen erleichtert werden.
+
+Aber wir wissen alle: Werbung verspricht oft mehr,
+als sie halten kann. Das gilt leider auch in diesem Fall.
+Kritik am elektronischen Personalausweis wird auch bei
+der Großen Koalition ignoriert. Der Ausweis wird sehr
+wahrscheinlich teurer, ein weiterer Sicherheitsgewinn ist
+nicht zu erwarten, und der freiwillige Fingerabdruck
+führt zur einer Zweiklassengesellschaft.
+
+Ich habe bis heute den Kompromiss der Großen
+Koalition nicht verstanden. Wieso sollen die Bürgerin-
+nen und Bürger ihre Fingerabdrücke freiwillig abgeben?
+Entweder der Staat braucht zwingend den Fingerab-
+druck, oder er braucht ihn nicht. Alles andere ist der Ein-
+stieg in eine biometrische Totalerfassung, weil ein Auf-
+satteln jederzeit möglich ist. Denn in den nächsten
+Jahren wird die freiwillige Aufnahme von Fingerabdrü-
+cken die Gesellschaft quasi spalten. Wir werden die-
+jenigen haben, die ihren Fingerabdruck abgeben und un-
+verdächtig sind, und diejenigen, die das nicht tun und
+verdächtig erscheinen. Das kann man nur verstehen,
+wenn man die schwierigen Abstimmungsverfahren in
+der Großen Koalition berücksichtigt. Mit Sicherheit oder
+Klugheit hat das aus FDP-Sicht überhaupt nichts zu tun.
+
+Über kurz oder lang werden wir auch sicherlich wie-
+der den Diskussionspunkt Zentraldatei haben. Eine sol-
+che Zentraldatei ist zwar in diesem Gesetzesentwurf
+nicht vorgesehen. Wir wissen doch aber alle, dass die
+politischen Verhältnisse sich sehr schnell ändern können.
+Letztes Wochenende fand in Berlin die größte Demon-
+stration gegen die staatlichen Überwachungsmaßnahmen
+statt. Besonders beeindruckt hat mich der Slogan „Wer
+heute noch lacht, wird morgen schon überwacht“. In
+diese Kategorie gehört auch die Diskussion um die Zen-
+traldatei.
+
+Es wäre zunächst auch sinnvoller gewesen, die Erfah-
+rungen aus dem biometrischen Pass – wie das Kosten-
+Nutzen-Verhältnis der biometrischen Daten für den Bür-
+ger und die Schwierigkeiten und Probleme bei der Aus-
+
+Deutscher Bundestag – 16. Wahlperiode – 183. Sitzung. Berlin, Donnerstag, den 16. Oktober 2008 19615
+
+(A) (C)
+
+(B) (D)
+gabe der Pässe mit Fingerabdrücken seit November 2007 –
+erst einmal in Ruhe auszuwerten, anstatt ein weiteres
+Großprojekt mit biometrischen Daten zu starten, zumal
+noch eine Verfassungsbeschwerde gegen die zwangs-
+weise Abnahme der Fingerabdrücke bei der Beantragung
+des Reisepasses in Karlsruhe anhängig ist.
+
+Eine solche Auswertung wäre auch im Hinblick auf
+die Sicherheit der RFID-Chips wichtig gewesen. Denn
+die RFID-Chips können per Funk kontaktlos, ohne dass
+es der Inhaber bemerkt, ausgelesen werden. Ein Perso-
+nalausweis ist zehn Jahre gültig. Der technische Fort-
+schritt in einem derartigen Zeitraum ist enorm. Es ist da-
+her denkbar, das Kriminelle Systeme entwickeln, um mit
+nicht autorisierten Geräten Daten über eine größere Dis-
+tanz auszulesen.
+
+Hinsichtlich des Arguments der Fälschungssicherheit
+verweise ich nur auf die erfolgreiche Klonung des briti-
+schen fälschungssicheren E-Passes durch einen Compu-
+terexperten im August 2008. Innerhalb einer Stunde
+wurde auf dem Pass eines Jungen der manipulierte
+RFID-Chip mit dem Foto eines palästinensichen Selbst-
+mordattentäters aufgebracht. Der Pass wurde von einem
+Lesegerät akzeptiert, das mit der Software arbeitet, die
+von der Zivilluftfahrt-Organisation als Standard empfoh-
+len wird. Für die Fälschung wurden ein öffentlich ver-
+fügbares Programm, ein Card-Reader und günstige
+RFID-Chips benötigt. Fälschungssicherer ist der neue
+Personalausweis damit nicht.
+
+Auch die Kosten sind für den Bürger noch völlig un-
+klar. Nicht nur, dass der eigentliche Ausweis teurer wird;
+es werden auch zusätzliche Kartenlesegeräte und damit
+Kosten notwendig sein, um den elektronischen Identi-
+tätsnachweis überhaupt nutzen zu können. Nach Presse-
+meldungen soll außerdem für die Zulassung der ID-Veri-
+fikationsdienste an Firmen eine neue Bundesbehörde
+geschaffen werden. Im Gesetzesentwurf steht dazu le-
+diglich, dass das Bundesministerium des Innern bestim-
+men wird, wer diese Aufgabe übernehmen wird; § 4
+Abs. 3 PAG-Entwurf. Etwas mehr Klarheit von der Bun-
+desregierung wäre an dieser Stelle schon angebracht.
+Wenn man eine neue Bundesbehörde will, sollte man es
+auch deutlich sagen.
+
+Und nun noch ein kurzes Wort zur elektronischen
+Identität. Identitätsdiebstähle werden auch von der FDP-
+Bundestagsfraktion mit Sorge betrachtet. Im Internet
+werden häufig gefälschte oder gestohlene Identitäten
+verwendet. Elektronische Identitäten müssen aber auch
+datenschutzfreundlich gestaltet werden. Das bedeutet ei-
+nerseits, dass nicht jeder Internetdienst nur noch bei Ver-
+wendung des neuen Ausweises nutzbar sein darf, und
+anderseits, dass aus dem Nutzerverhalten im Internet
+keine Nutzungsprofile erstellt werden können. Insbeson-
+dere auch bei den geplanten Bürgerportalen, die als
+Anwendungszenario an den elektronischen Personalaus-
+weis anknüpfen, ergeben sich weitere datenschutzrecht-
+liche Fragestellungen.
+
+Denkt man dieses Szenario weiter, deutet sich neben
+der Onlineüberwachung, Internetmonitoring und Vor-
+ratsdatenspeicherung hier eine weitere Möglichkeit der
+Großen Koalition an, die Internetnutzung zu überwa-
+chen. Für eine Hauspost-Postwurfsendung zum elektro-
+nischen Personalausweis sind Kosten in Höhe von
+240 000 Euro veranschlagt. Für den Datenschutzbeauftrag-
+ten hingegen soll es im kommenden Jahr nur 22 000 Euro
+mehr geben. Ich hoffe, dass Sie dann wenigsten auch die
+Bürgerportale bei den öffentlichen Debatten um den
+elektronischen Personalausweis aufnehmen. Die Bürger
+müssen wissen, dass sich hier weitere Überwachungs-
+möglichkeiten im Internet bieten.
+
+Die FDP-Bundestagsfraktion hat das Projekt E-Perso-
+nalausweis von Anfang an kritisch begleitet. Wir brau-
+chen keine Schnellschüsse, die den Bürgerinnen und
+Bürger nur wenig nutzen, aber mit Folgen für die Bür-
+gerrechte verbunden sind, die wir heute noch gar nicht
+konkret abschätzen können. Wir lehnen den E-Personal-
+ausweis in der von der Bundesregierung vorgelegten
+Form ab.
+
+
+~~~

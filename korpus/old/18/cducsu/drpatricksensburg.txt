@@ -1,0 +1,136 @@
+~~~ 
+Dr. Patrick Sensburg   18.05.2017  18234.xml
+ Mit dem vor-
+liegenden Gesetzentwurf der Bundesregierung soll nun
+auch im Strafverfahren eine gesetzliche Grundlage für
+die Einführung der elektronischen Akte geschaffen wer-
+den . Dies soll als Voraussetzung für einen Medienwech-
+sel geschehen, welcher den technischen Fortschritt nach-
+vollziehen und die Strafjustiz modernisieren wird . Wenn
+in der Privatwirtschaft und in vielen Behörden bereits di-
+gital gearbeitet wird und die Vorzüge der elektronischen
+Aktenführung genutzt werden, darf die Justiz in Strafver-
+fahren nicht hinter modernen Standards zurückbleiben .
+
+Ich begrüße daher das Anliegen dieses Gesetzentwur-
+fes, auch für Strafsachen den elektronischen Rechtsver-
+kehr einzuführen und die Möglichkeit der elektronischen
+Aktenführung zu schaffen . Straf- und Ermittlungsakten
+könnten mit dem Inkrafttreten der Neuregelung elektro-
+nisch angelegt und geführt werden . Insoweit wird auch
+für den Bereich der Strafsachen die Rechtsgrundlage
+geschaffen, welche für andere Verfahrensarten bereits
+existiert . So haben wir schon Regelungen in den §§ 298a
+ZPO, § 46e ArbGG, § 52b FGO, § 65b SGG und § 55b
+VwGO .
+
+Auf dieser Grundlage ist der elektronische Rechts-
+verkehr beispielsweise in Nordrhein-Westfalen bei allen
+Verwaltungs-, Finanz-, Sozial- und Arbeitsgerichten so-
+wie in bestimmten Zivilverfahren, wie im Mahnverfah-
+ren oder in Registersachen, und bei einzelnen Land- und
+Amtsgerichten eröffnet . Verfahrensbezogene Dokumente
+können elektronisch eingereicht werden . Die Ausdeh-
+nung auf das Strafverfahren ist daher nur folgerichtig .
+
+Ebenfalls begrüßenswert ist, dass erstmals ein Stich-
+tag festgesetzt werden soll, ab dem bundesweit die Füh-
+rung der elektronischen Akten gesetzlich verpflichtend
+wird . Bis zum 25 . Dezember 2025 würde die elektro-
+nische Aktenführung dabei lediglich eine Option dar-
+stellen . Ab dem 1 . Januar 2026 sollen neu anzulegende
+Akten dann nur noch elektronisch zu führen sein . Damit
+soll die flächendeckende verbindliche Einführung der
+elektronischen Aktenführung im Bereich der Strafjustiz
+bereits jetzt gesetzlich vorgegeben werden . Ein einheit-
+licher Stichtag bietet Planungssicherheit und erhöht zu-
+dem die Chance, alle Beteiligten frühzeitig in die Umset-
+zung einzubinden . Diese Chance sollte genutzt werden,
+zum Wohle einer effektiven, modernen und effizienten
+Strafjustiz .
+
+Im Zusammenhang mit der Zulassung elektronischer
+Strafakten soll zugleich die elektronische Kommunikati-
+on zwischen den Strafverfolgungsbehörden und den Ge-
+richten sowie der elektronische Rechtsverkehr im Straf-
+verfahren unter Absenkung bestehender Zugangshürden
+neu geregelt werden . Das bundeseinheitliche Vorgehen
+
+bei der Einführung der elektronischen Akte in der Jus-
+tiz minimiert Medienbrüche und fördert länderüber-
+greifend sinnvolle Lösungen für einheitliche Standards
+und bundeseinheitliche Austauschformate . Ich halte die
+lange Übergangsfrist bis zur verbindlichen Einführung
+am 1 . Januar 2026 für sinnvoll, um die entsprechenden
+Fachverfahren für vollelektronische Geschäftsprozesse
+pilotieren zu können . Die bisher durchgeführten Mo-
+dellprojekte und Pilotprojekte, wie z . B . eIP in Bayern,
+VIS-Justiz in Baden-Württemberg oder e2A in Nord-
+rhein-Westfalen betreffen ausschließlich das Zivilrecht .
+
+Was genau versteht man unter einer „e-Akte“? Sie
+wird beschrieben als „ein definiertes System elektro-
+nisch gespeicherter Daten“ . Dies ist im Hinblick auf die
+schnell fortschreitende Entwicklung der Informations-
+technik grundsätzlich sachgerecht . Allerdings wird da-
+durch umso wichtiger, dass Bund und Länder bei den für
+ihre jeweiligen Bereiche zu erlassenden Regelungen von
+gleichen Voraussetzungen ausgehen .
+
+Die elektronische Akte ist deutlich mehr als die Pa-
+pierakte . Die mit einer elektronischen Aktenführung ein-
+hergehende automatisierte Verarbeitung personenbezo-
+gener Daten ermöglicht im Vergleich zur papierbasierten
+Aktenführung eine wesentlich einfachere und schnellere
+Recherche, Filterung oder Verknüpfung von Daten . Dies
+bedeutet letztlich auch eine Beschleunigung der Arbeits-
+prozesse insgesamt – bei der täglichen Arbeit bei den Ge-
+richten und Staatsanwaltschaften .
+
+Neben der höheren Informationsqualität und Informa-
+tionsaktualität zählt auch der Platzgewinn . In der brei-
+ten Öffentlichkeit fehlt jedoch oft das Vertrauen, dass
+Daten elektronisch besser geschützt sind als in Papier-
+form . Die Datensicherheit und der Datenschutz sind ein
+großes Thema und genießen auf nationaler und europäi-
+scher Ebene einen hohen Stellenwert . Viele fürchten die
+Manipulation der Daten durch Hackerangriffe oder auch
+staatliche Kontrolle . Dabei ist die Sicherheit von elek-
+tronischen Akten keinesfalls geringer als von Akten in
+Papierform . Wir müssen daher genau regeln, innerhalb
+welcher Grenzen die Strafverfolgungsbehörden die in
+den Akten gespeicherten Daten verwenden dürfen und
+welche Personen Zugriff erhalten . Dies ist mit dem vor-
+liegenden Gesetzesentwurf gelungen . Zum einen haben
+wir die unbestimmten Rechtsbegriffe wie „Rahmenbe-
+dingungen“ und „geltende Standards“ näher bestimmt,
+so zum Beispiel durch Einführung des Begriffs „Stand
+der Technik“ . Des Weiteren haben wir Schutzziele klarer
+benannt, indem wir das Verhältnis zur „Grundnorm“ § 9
+BDSG konkreter herausgearbeitet haben .
+
+Ein wichtiges Anliegen für uns war die gesellschaft-
+liche Teilhabe von Menschen mit Behinderung – vor al-
+lem, den barrierefreien Zugang zur Justiz zu verbessern .
+Mit diesem Gesetzesentwurf wird hierfür eine wichtige
+Voraussetzung geschaffen . Durch viele Gespräche mit
+zum Beispiel sehbehinderten Menschen konnten deren
+Interessen so gut wie möglich im Gesetz Berücksichti-
+gung finden.
+
+Die flächendeckende Umstellung des Strafverfahrens
+auf elektronische Arbeitsgrundlagen ist ein ambitionier-
+tes Vorhaben, welches nur gelingen kann, wenn es gründ-
+
+Deutscher Bundestag – 18 . Wahlperiode – 234 . Sitzung . Berlin, Donnerstag, den 18 . Mai 2017 Deutscher Bundestag – 18 . Wahlperiode – 234 . Sitzung . Berlin, Donnerstag, den 18 . Mai 2017 23789
+
+(A) (C)
+
+(B) (D)
+
+lich vorbereitet und sorgfältig durchgeführt wird und
+wenn hierbei alle Beteiligten intensiv und vertrauensvoll
+zusammenarbeiten .
+
+
+~~~

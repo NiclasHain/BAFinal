@@ -1,0 +1,220 @@
+~~~ 
+Matthias Ilgen   07.05.2015  18103.xml
+
+Herr Präsident! Meine Damen und Herren! Wenn man
+
+den Rednern von Linken und Grünen zuhört, kann man
+das Gefühl haben, dass bald die schöne neue Welt
+kommt. Was soll in Zukunft nicht alles open sein! Auch
+wir nehmen zur Kenntnis, dass der Datenmarkt durch
+Big Data, Linked Data und Open Data derzeit im Um-
+bruch, in Bewegung ist.
+
+(Dr. André Hahn [DIE LINKE]: Bei der Bun-
+desregierung ist Closed Data!)
+
+Nicht zuletzt die Regierungen der USA und Großbritan-
+niens – Herr Janecek, Sie haben das gerade angespro-
+chen –, aber auch die Europäische Kommission tragen
+derzeit viel dazu bei. Wir haben eine spürbare Dynamik
+im Markt, die den Lebenszyklus von Datenprodukten
+völlig neu definiert.
+
+Sowohl in der öffentlichen Verwaltung und in priva-
+ten Unternehmen als auch beim Verbraucher ergeben
+sich neue Verortungen entlang dieser Wertschöpfungs-
+ketten. Wir stellen das alleine an den vielen Apps – die-
+
+Deutscher Bundestag – 18. Wahlperiode – 103. Sitzung. Berlin, Donnerstag, den 7. Mai 2015 9851
+
+Matthias Ilgen
+
+(A) (C)
+
+(D)(B)
+ses Wort ist ja allein in den vorangegangenen vier Reden
+etwa 30-mal gefallen – und neuen Anwendungen für
+Smartphones und andere Geräte fest, die wir im Internet
+finden und die uns das Leben erleichtern sollen. Ich
+glaube, dieser Prozess wird weitergehen, und wir müs-
+sen uns überlegen, welche weiteren Erfolge durch Open
+Data in Deutschland noch möglich sind.
+
+Insbesondere die Kombination aus Open Data und
+mobilen Anwendungen wird dadurch erleichtert, dass
+wir öffentliche Daten, die von den Verwaltungen des
+Bundes, der Länder, der Gemeinden und vielen anderen
+staatlichen Stellen zur Verfügung gestellt werden, jetzt
+zur Weiterverwendung freigeben. Das ist Ziel und Kern
+dieses Gesetzes, und das ist auch richtig.
+
+(Beifall bei der SPD)
+
+Der Markt für mobile Apps hängt zugleich aber we-
+sentlich vom eigentlichen Kundenpotenzial ab. In den
+sogenannten App-Stores werden, wie wir alle wissen,
+die entsprechenden Produkte gehandelt, und eine App
+wird im Durchschnitt für 1,80 Euro, glaube ich, verkauft.
+Schauen wir uns einmal die Segmente an: Eben wurde
+eine App für Rollstuhlfahrer angesprochen. In meiner
+Heimatstadt, die 22 000 Einwohner hat, ist das Kunden-
+potenzial für diese App, glaube ich, relativ klein, selbst
+wenn eine staatliche Internetseite wie www.meine-
+stadt.de diese App öffentlich machen würde.
+
+Wir müssen also für einheitliche Regelungen in
+Deutschland sorgen. Dafür ist die Plattform GovData der
+Bundesregierung der erste Ansatz. Nehmen wir als
+Beispiel die Rollstuhlfahrer-App, bei der es um Barriere-
+freiheit geht: Alle staatlichen Stellen müssen einen
+Markt schaffen, der groß genug ist, damit eine solche
+App auch wirtschaftlich funktionieren kann; denn an-
+sonsten bleibt das Programmierspielkram für den einen
+oder anderen. Das mag im Einzelfall vor Ort sinnvoll
+sein. Die Frage ist aber, wie wir die wirtschaftlichen Po-
+tenziale nutzen können. Deswegen müssen wir dafür
+sorgen, dass hier in Deutschland ein einheitlicher Weg
+beschritten wird.
+
+Ich möchte ein Beispiel vorbringen, das über die
+Anwendungen, von denen wir schon gehört haben, hin-
+ausgeht und deutlich macht, dass man über den Teller-
+rand schauen muss. Es geht um eine App aus Israel, die
+mir besonders ins Auge gesprungen ist. Der Entwickler
+Ari Sprung hat die App „Red Alert“ entwickelt. Das
+klingt ein bisschen martialisch, und so ist es in diesem
+Fall auch. Diese App warnt Nutzer in Israel vor Raketen-
+einschlägen. Diese App schlug im letzten Jahr aufgrund
+des Konflikts zwischen Palästinensern und Israelis in
+dieser Region Tausende Male Alarm. Diese App ist in
+der Lage, in Echtzeit, sozusagen im Zwei-Sekunden-
+Takt, jede einzelne Rakete, die aus Gaza auf Israel abge-
+schossen wird, zu erfassen und zu melden. Sogar wäh-
+rend eines Live-Interviews mit dem israelischen Bot-
+schafter in Washington war der Ton dieser App in der
+Fernsehübertragung zu hören, weil der Diplomat verges-
+sen hatte, sie stumm zu schalten. 1 Million Israelis haben
+„Red Alert“ mittlerweile heruntergeladen. Das heißt, je-
+der achte Israeli besitzt diese Anwendung. Sie könnte
+aber auch für andere Länder interessant werden.
+
+(Zuruf des Abg. Herbert Behrens [DIE
+LINKE])
+
+Ich hoffe, dass wir für eine solche App – das ist natürlich
+ein Extrembeispiel – in Deutschland künftig keine Ver-
+wendung haben werden, weil es hier friedlicher zugeht.
+
+Die Frage ist aber, meine Damen und Herren, woher
+diese Daten kamen. Auf die Frage: „Wo hast du die
+Daten her?“, hat der Programmierer gesagt: Ich habe sie
+von einer Webseite; die Daten sind im Internet zugäng-
+lich. – Die Daten sind dort tatsächlich öffentlich zugäng-
+lich; die eigentliche Frage war aber, wo der Ersteller der
+Webseite die Daten herhatte. Diese Daten kommen na-
+türlich von einer staatlichen Stelle, aber bisher hat keiner
+die Frage beantwortet, woher die Daten genau kommen.
+Wir bewegen uns hier also – ich würde es freundlich
+ausdrücken – in einem rechtlichen Graubereich. Das
+Land Israel hat sicherlich ein Interesse daran, dass diese
+App funktioniert. Die Daten werden aber vermutlich
+kaum von einer Behörde frei zugänglich eingestellt.
+
+An diesem Extrembeispiel sieht man, in welchen Be-
+reichen wir uns in Zukunft mit diesem Gesetz bewegen
+könnten. Wir müssen also auch über Einzelfälle nach-
+denken. Deswegen finde ich es gut, dass man beim Mel-
+deregister und bei anderen Dingen Ausnahmen macht.
+Die Frage ist also: Wozu sind Daten verwendbar? Was
+bringen Sie uns zum Beispiel in der Sicherheitstechnik?
+Was bringen sie uns in der Medizintechnik? Was bringen
+sie uns künftig in anderen Bereichen der Wirtschaft?
+
+Ich stimme allen bisherigen Rednern zu – das haben
+nämlich wirklich alle gesagt –, dass die Novellierung des
+IWG ein erster Schritt ist und wir noch weitere Schritte
+auf dem Weg zu Open Data gehen müssen, damit künftig
+weitere kommerzielle und nichtkommerzielle Anwen-
+dungen entwickelt werden können.
+
+Wir wollen sehen, wie wir diese Open-Data-Strategie
+weiterführen. Auch müssen wir fragen: Wie steht es am
+Ende um die Rechtsansprüche? Denn die Frage ist natür-
+lich, welchen Erfüllungsaufwand wir unseren Behörden
+aufgeben, wenn sie jetzt sozusagen alle Informationen,
+die sie für veröffentlichungswert halten, einstellen sol-
+len. Auf der anderen Seite ist zu überlegen: Welche In-
+teraktion gibt es dabei mit Blick auf Bürger und Unter-
+nehmen, die diese Daten nutzen wollen und können?
+
+Ich glaube – das sage ich abschließend –, dass wir ein
+riesiges Marktpotenzial in der Bundesrepublik Deutsch-
+land, aber auch in Europa haben werden. Ich würde mich
+freuen, wenn alle Fraktionen das Vorhaben weiterhin un-
+terstützen würden.
+
+Danke schön.
+
+(Beifall bei der SPD und der CDU/CSU)
+
+
+~~~~~~ 
+Matthias Ilgen   23.06.2016  18179.xml
+ Fakt ist Im Vergleich zu den
+USA, aber auch zu aufstrebenden Wettbewerbern aus
+China, Südkorea oder Israel entwickelt sich die digitale
+Wirtschaft in Europa zu langsam . In der Binnenmarktstra-
+tegie, über die wir heute beraten, widmet sich die Kom-
+mission daher zu Recht der partizipativen Wirtschaft . Ich
+begrüße es, dass die Kommission sich in jüngster Zeit
+verstärkt der digitalen Wirtschaft annimmt . Zwar haben
+wir auch bei uns viele gute Ideen für diesen neuen Wirt-
+schaftszweig, die erfolgreichsten Unternehmen haben ih-
+ren Sitz aber in den USA . Daher ist der Ansatz der Kom-
+mission richtig, zu untersuchen, wie Hemmnisse gerade
+für die partizipative Wirtschaft innerhalb der EU abge-
+baut werden können . Ich denke dabei beispielsweise an
+das immer noch verbreitete Geoblocking, das es in einem
+Binnenmarkt eigentlich nicht geben dürfte . Was wir aber
+nicht wollen, sind neue Geschäftsmodelle, die sich auf
+Kosten von sozialer Sicherung, Verbraucherschutz und
+Arbeitnehmerrechten durchsetzen .
+
+Unsere volle Unterstützung hat die Kommission, wenn
+sie Bürokratie abbauen will für Unternehmen, die über
+die Grenzen hinweg expandieren wollen . Das zentrale
+digitale Zugangstor, mit dem verschiedene Onlinediens-
+te der EU zur Information und Unterstützung für KMU
+gebündelt werden, ist ein Schritt in die richtige Richtung .
+Auch eine einheitliche Normung in Europa würde für
+Hersteller und Dienstleister in der EU vieles erleichtern .
+Die gemeinsame Normungsinitiative der Kommission
+begrüßen wir deshalb ausdrücklich .
+
+Wenn die EU-Kommission die Zuwanderung von un-
+ternehmerischen Talenten in die EU fördert, kann sie auf
+die Unterstützung der SPD zählen . Hier geht es nicht um
+einen Verdrängungswettbewerb mit bereits in Europa le-
+benden Menschen, sondern darum, die EU attraktiv zu
+machen für Männer und Frauen, die ihre Arbeit nicht nur
+für sich selbst, sondern auch für andere mitbringen . In
+Deutschland haben wir mit unserem Aufenthaltsgesetz
+
+Deutscher Bundestag – 18 . Wahlperiode – 179 . Sitzung . Berlin, Donnerstag, den 23 . Juni 2016 Deutscher Bundestag – 18 . Wahlperiode – 179 . Sitzung . Berlin, Donnerstag, den 23 . Juni 2016 17745
+
+(A) (C)
+
+(B) (D)
+
+bereits die rechtlichen Voraussetzungen geschaffen, da-
+mit Unternehmer das Silicon Valley in Richtung Berlin
+verlassen können .
+
+Gemeinsam mit meiner Fraktion unterstütze ich das
+Ziel der Kommission, den Binnenmarkt für Unterneh-
+men attraktiver zu machen . Fest steht für mich auch, dass
+dabei Arbeitnehmerrechte, fairer Wettbewerb und Ver-
+braucherschutz nicht auf der Strecke bleiben dürfen .
+
+
+~~~

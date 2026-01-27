@@ -1,0 +1,315 @@
+~~~ 
+Jörg Tauss   01.06.2006  16037.xml
+ Wir befassen uns heute in erster
+Lesung mit dem 20. Tätigkeitsbericht des Bundesbeauf-
+tragten für den Datenschutz, welcher den Berichtszeit-
+raum der Jahre 2003 und 2004 umfasst und dem Haus
+bereits seit April 2005 vorliegt. Leider war aufgrund der
+vorgezogenen Wahlen zum 16. Deutschen Bundestag
+
+Deutscher Bundestag – 16. Wahlperiode – 37. Sitzung. Berlin, Donnerstag, den 1. Juni 2006 3445
+
+(A) (C)
+
+(B) (D)
+eine frühere Befassung mit dem Bericht nicht möglich.
+Ich sage auch deshalb leider, weil der Bericht durch
+diese verzögerte Befassung in einigen sehr wichtigen
+Einzelpunkten bereits den tatsächlichen Entwicklungen
+hinterherhinkt.
+
+Bevor ich etwas detaillierter auf die Inhalte und For-
+derungen dieses 20. Tätigkeitsberichtes eingehe, möchte
+ich Herrn Peter Schaar und seinen Mitarbeiterinnen und
+Mitarbeitern für diesen Bericht danken, den ich in bester
+Tradition mit denen seines Vorgängers Dr. Jacob sehe.
+Wenn wir nun schon bei Traditionen sind: Es ist feste
+Praxis in unserem Hause, dass Entschließungen zum Tä-
+tigkeitsbericht des Bundesbeauftragten für Datenschutz
+in interfraktioneller Einigung gefasst werden, und ich
+bin sehr guter Dinge, dass uns dies auch dieses Mal ge-
+lingen wird. Ich bin deshalb so positiv gestimmt, weil
+sich die Forderungen aus dem aktuellen Tätigkeitsbe-
+richt in wesentlichen Teilen mit dem Beschluss des
+Deutschen Bundestages zum 19. Tätigkeitsbericht des
+Bundesdatenschutzbeauftragten decken.
+
+Datenschutz ist Grundrechtsschutz und damit eine un-
+verzichtbare Bedingung für die Funktion eines demokra-
+tischen Gemeinwesens. Er ist notwendiger Bestandteil
+einer freiheitlichen Kommunikationsordnung. Demokra-
+tische Teilhabe und Teilnahme an gesellschaftlichen
+Kommunikationsprozessen und einem freien Wirt-
+schaftsverkehr sind nur zu erwarten, wenn jeder Teilneh-
+mer sein Handeln auf freier Willensbildung gründen
+kann. Diese ist nur möglich, wenn die Erhebung, Spei-
+cherung und Nutzung von personenbezogenen Daten
+grundsätzlich seiner freien Selbstbestimmung unter-
+liegt. Dies gilt in der sich herausbildenden Wissens- und
+Informationsgesellschaft für den gesamten Bereich der
+elektronischen Kommunikation in besonderem Maße.
+Hauptmerkmal der Wissens- und Informationsgesell-
+schaft ist, dass nahezu sämtliche Lebensbereiche von
+den neuen Informations- und Kommunikationstechnolo-
+gien durchdrungen sind und sensible Daten und Informa-
+tionen aus allen gesellschaftlichen Bereichen in zuneh-
+mendem Maße in weltweite Informations- und
+Kommunikationsnetze eingespeist und übermittelt wer-
+den. Dabei ist die Praxis der Datenverarbeitung durch
+eine dezentrale, vernetzte und digitalisierte Datenverar-
+beitung in Wirtschaft und Gesellschaft bestimmt: Bereits
+seit langem werden personenbezogene Daten nicht mehr
+auf isolierten Rechnern, sondern auf dezentralen Rech-
+nern verarbeitet, die immer kleiner werden, tragbar so-
+wie miteinander vernetzt sind und zunehmend selbst-
+ständig miteinander kommunizieren sollen.
+
+Dies birgt neben Vorteilen für Wirtschaft, Verwaltung
+und Gesellschaft allerdings auch Gefährdungspoten-
+ziale, insbesondere durch die Möglichkeiten heimlicher
+Datenerhebung oder -manipulation sowie einer Integra-
+tion unterschiedlicher Datenbestände zur Analyse
+umfassender Persönlichkeitsprofile. Diese Gefährdungs-
+potenziale und Risiken – die der Bundesdatenschutzbe-
+auftragte in seinem Bericht benennt – sind insbesondere
+deshalb folgenreich, weil sie die autonome Handlungs-
+und Kommunikationsfähigkeit der Bürgerinnen und
+Bürger gefährden und damit die zentrale Voraussetzung
+für die gesellschaftliche Akzeptanz und Entwicklung der
+zivilen Informationsgesellschaft infrage stellen. Eine
+fehlende Akzeptanz seitens der Nutzer wirkt sich im Üb-
+rigen auch wirtschaftlich negativ auf die Entwick-
+lungschancen der Angebote aus Wirtschaft, Verwaltung
+und Gesellschaft aus. Datenschutz ist in diesem Sinne
+– das mittlerweile weltweit akzeptiert – einer der zentra-
+len Akzeptanzfaktoren der Informationsgesellschaft. Da-
+mit gewinnt nicht nur der Schutz der Privatsphäre und
+die Vertraulichkeit und Integrität sämtlicher Kommuni-
+kation zunehmend an Bedeutung, darüber hinaus wird
+Datensicherheit zu einem integralen Baustein in einem
+ganzheitlichen, auf mehrseitige Sicherheit basierenden
+Datenschutzkonzept.
+
+Dieser Ausgangslage trägt das bisherige Datenschutz-
+recht in Deutschland nur bedingt Rechnung; auch diese
+Feststellung bekräftigt der 20. Tätigkeitsbericht des
+Bundesdatenschutzbeauftragten. Es ist immer noch zu
+sehr auf das Konzept der räumlich abgegrenzten Daten-
+verarbeitung fixiert, nimmt neue Formen personenbezo-
+gener Daten und deren Verarbeitung nur ungenügend auf
+und berücksichtigt unzureichend die Gefahren und
+Chancen neuer Techniken der Datenverarbeitung. Da-
+rüber hinaus ist es in seinen Formulierungen häufig
+widersprüchlich und durch seine Normierung in zahlrei-
+chen Gesetzen unübersichtlich und schwer zu handha-
+ben.
+
+Auf die zunehmende Konvergenz der Technik muss
+sinnvollerweise eine Konvergenz des Datenschutzrech-
+tes folgen. Hierzu wird die anstehende Beratung des
+Telemediengesetzes, in dem die Datenschutzvorschriften
+für die elektronischen Medien zusammengeführt werden
+sollen, ein wichtiger erster Schritt sein. Es müssen recht-
+liche Rahmenbedingungen geschaffen werden, die – und
+hier stimme ich mit dem Bundesbeauftragten für Daten-
+schutz völlig überein – zum einen den Umfang und die
+Grenzen zulässiger Datenverarbeitung klar definieren
+und zum anderen die Rechte und Pflichten aller invol-
+vierten Akteure festlegen.
+
+Bedingt durch die beschriebenen sich rasant verän-
+dernden Entwicklungen im Bereich der Technologien
+und der daraus resultierenden immer neu entstehenden
+Problemfelder zeigt sich, dass wirkungsvoller Daten-
+schutz eben kein klar definierter und abgeschlossener
+Bereich ist. Vielmehr sehe auch ich das Datenschutz-
+recht als einen dynamischen, sich im stetigen Wandel be-
+findlichen Prozess an – mit Konsequenzen für den Ge-
+setzgeber, da die bereits bestehende Norm immer wieder
+aufs Neue aktuellen Entwicklungen und Erkenntnissen
+angepasst werden muss. Zu Recht verweist der Tätig-
+keitsbericht daher an dieser Stelle darauf, dass es hierbei
+nicht um eine bürokratische Überregulierung handelt –
+diese Sorge könnte man leicht haben. Die SPD-Bundes-
+tagsfraktion vertritt vielmehr die Auffassung, dass man
+nur durch die Fortführung der umfassenden Modernisie-
+rung und Fortentwicklung des Datenschutzrechtes zu ef-
+fizienten und unbürokratischen Lösungen gelangen
+kann, und sieht daher ein modernisiertes Datenschutz-
+recht auch als Instrument zum Bürokratieabbau. Die not-
+wendige Überprüfung und Fortentwicklung des Daten-
+schutzrechtes hat daher auch Eingang in die
+
+3446 Deutscher Bundestag – 16. Wahlperiode – 37. Sitzung. Berlin, Donnerstag, den 1. Juni 2006
+
+(A) (C)
+
+(B) (D)
+Koalitionsvereinbarung zwischen SPD und CDU/CSU
+gefunden.
+
+Wir streben mit der Modernisierung und Weiterent-
+wicklung des Datenschutzrechtes eine deutliche und
+kontinuierliche Vereinfachung und Integration des Da-
+tenschutzrechtes an, ohne das bestehende Schutzniveau
+abzusenken. Ein solches Ziel kann nur dann verwirklicht
+werden, wenn das bestehende Datenschutzrecht um neue
+Datenschutzinstrumente ergänzt wird – beispielsweise
+durch die mit der BDSG-Novellierung geschaffene
+Möglichkeit des Datenschutz-Audit –, wobei der Imple-
+mentierung eines Datenschutzes durch Technik grund-
+sätzlich eine große Bedeutung zukommen wird. Darüber
+hinaus muss es aber auch allgemeine Regelungen zur
+Datensicherung, zur Datenschutzorganisation, zur Da-
+tenschutzkontrolle und zur Selbstregulierung enthalten.
+
+Im Rahmen der im 20. Tätigkeitsbericht geforderten
+Modernisierung des Datenschutzrechtes stellt der Bun-
+desbeauftragte zu Recht die Frage: Wann endlich kommt
+das Auditgesetz? Wir haben es bisher versäumt, ein ent-
+sprechendes Durchführungsgesetz auf den Weg zu brin-
+gen. Ohne dieses kann aber die in § 9 a BDSG beabsich-
+tigte Wirkung keine Entfaltungen finden. Das
+Auditgesetz, als datenschutzrechtliche Innovation und
+wichtiges Modernisierungselement gedacht, soll zur
+Stärkung der Akzeptanz des Datenschutzes beitragen
+und eine ständige Fortentwicklung entsprechend den
+sich verändernden und zunehmenden Risiken ermögli-
+chen. Dabei ist einer möglichst unbürokratischen Lö-
+sung der Vorzug zu geben, die sich an den realen Interes-
+sen der Anbieter und Verbraucher orientiert. Daher wird
+mit der Möglichkeit der Auditierung den verantwortli-
+chen Stellen die Möglichkeit geboten, mit ihren Anstren-
+gungen zur Implementierung eines effektiven Daten-
+schutzes zu werben. Hierzu gehört insbesondere die
+vertrauenswürdige Auditierung von Datenschutzma-
+nagementsystemen. Verantwortliche Stellen, die am Da-
+tenschutzaudit teilnehmen, sollten von öffentlichen Stel-
+len bevorzugt berücksichtigt werden, wenn es um
+Aufträge zur Verarbeitung personenbezogener Daten
+geht. Darüber hinaus führt es – auch das hebt der Tätig-
+keitsbericht hervor – weg von Verbot, Kontrolle und
+Sanktion; es sollte vielmehr als Mittel des wirtschaftli-
+chen Wettbewerbs begriffen werden. Entsprechende Re-
+aktionen aus Wirtschaftskreisen auf eine solche Rege-
+lung – das sind auch meine Erfahrungen – stimmen uns
+da positiv.
+
+Ähnlich dringend gestaltet sich der Bereich der Gen-
+diagnostik; auch hierauf verweist der Bundesdaten-
+schutzbeauftragte völlig zu Recht. Der technisch-medi-
+zinische Fortschritt in der molekulargenetischen
+Forschung verläuft rasant und die sich daraus ergebende
+Möglichkeit von DNA-Analysen eröffnet ungeahnte
+Chancen, aber auch ungeahnte Risiken für das Recht auf
+informationelle Selbstbestimmung. Daher erfordern die
+Entschlüsselung des menschlichen Genoms und die da-
+mit verbundenen Anwendungsmöglichkeiten eine um-
+fassende gesetzliche Regelung, beispielsweise für gene-
+tische Untersuchungen für medizinische Zwecke, im
+Versicherungsbereich, im Arbeitsleben oder für Zwecke
+wissenschaftlicher Forschung. Ich begrüße an dieser
+Stelle mit Nachdruck die Forderung aus dem vorliegen-
+den Tätigkeitsbericht des Bundesbeauftragten für den
+Datenschutz nach einem ausdrücklichen und strafbe-
+wehrten Verbot, die Genanalyse eines anderen ohne Be-
+fugnis durchzuführen oder durchführen zu lassen oder
+Ergebnisse der Genanalyse eines anderen zu verarbeiten
+oder zu nutzen. Bisher fehlen hier spezielle rechtliche
+Regelungen und das allgemeine Datenschutzrecht reicht
+vielfach nicht aus, um Missbrauch entgegenzutreten, fai-
+ren Interessenausgleich zu gewährleisten und diesen
+Kernbereich der Persönlichkeit eines jeden Menschen
+wirkungsvoll zu schützen. Ich plädiere dafür, die vom
+BfD gemachten Vorschläge bei der Erarbeitung einer ge-
+setzlichen Regelung einzubeziehen, wie auch den Bun-
+desbeauftragten für den Datenschutz von Anfang an der
+Erarbeitung eines solchen Regelwerkes zu beteiligen.
+
+Ich möchte abschließend noch einen letzten – in mei-
+nen Augen nicht weniger wichtigen – Aspekt anspre-
+chen, dem auch der vorliegende Tätigkeitsbericht einen
+hohen Stellenwert einräumt, nicht zuletzt weil er die un-
+terschiedlichsten und insbesondere für den Bürger weit-
+reichendsten Bereiche tangiert: Biometrische Verfahren
+rücken nicht zuletzt auch aufgrund gestiegener Sicher-
+heitsanforderungen und des Wunsches nach absolut täu-
+schungs- oder fälschungssicherer Identifikation bzw. Ve-
+rifikation von Personen immer mehr in den Blickpunkt.
+Diese hebt auch die Koalitionsvereinbarung zwischen
+SPD und CDU/CSU hervor, wo auf den verstärkten Ein-
+satz von biometrischen Verfahren hingewiesen wird.
+
+Der Tätigkeitsbericht des BfD geht intensiv auf die
+Chancen und Risiken der Biometrie ein. Er verweist zum
+einen auf die notwendige Beachtung der Grundprinzi-
+pien des Datenschutzes wie Datensparsamkeit, Datensi-
+cherheit, Transparenz, strikte Zweckbindung, Erforder-
+lichkeit und Verhältnismäßigkeit, um nur die wichtigsten
+zu nennen. Zum anderen sieht er aber auf nationaler wie
+internationaler Ebene noch erheblichen Beratungs- und
+Regelungsbedarf. Denn die politischen, finanziellen und
+organisatorischen Konsequenzen sowie Nebenfolgen
+– beispielsweise mit Blick auf das Recht auf informatio-
+nelle Selbstbestimmung – wurden bislang – dies ist
+meine Meinung – erst in Ansätzen durchdacht. Dies gilt
+allein schon für die Kosten einer Nutzung von Biometrie
+in Ausweisdokumenten, aber auch für die grundsätzliche
+Zuverlässigkeit sowie die Angreifbarkeit der Systeme;
+dies merkt auch der Tätigkeitsbericht zu Recht kritisch
+an.
+
+Insbesondere bei der Zuverlässigkeit der Systeme
+möchte ich mich den im Tätigkeitsbericht formulierten
+Bedenken anschließen. Der Einsatz beispielsweise von
+Biometriepässen wird nur schwerlich ein Mehr an Si-
+cherheit bringen. Ein digitales Foto und Fingerabdrücke
+im Pass verraten gar nichts über mögliche kriminelle
+oder terroristische Absichten des Passinhabers. Vielmehr
+kann ein solcher E-Pass schnell selbst zum Sicherheitsri-
+siko zu werden – beispielsweise wenn die Daten mani-
+puliert oder ausgelesen werden. Bei einer zehnjährigen
+Gültigkeit von Reisepässen kann heute niemand seriös
+ausschließen, dass die biometrischen Daten nicht doch
+irgendwann unbemerkt gelesen, kopiert oder verändert
+werden können.
+
+Deutscher Bundestag – 16. Wahlperiode – 37. Sitzung. Berlin, Donnerstag, den 1. Juni 2006 3447
+
+(A) (C)
+
+(B) (D)
+Will die Gesellschaft beim Übergang zur Wissens-
+und Informationsgesellschaft am Ziel eines freiheitlich-
+demokratischen Gemeinwesens festhalten und will sie
+auch die wirtschaftlichen und arbeitsmarktpolitischen
+Potenziale nicht gefährden, kommt sie nicht umhin, auch
+in einer vernetzten und digitalisierten Welt das
+Grundrecht auf informationelle und kommunikative
+Selbstbestimmung zu bewahren. Das wird nur durch
+eine umfassende Modernisierung des bestehenden Da-
+tenschutzrechtes zu erreichen sein. Hierzu zählen insbe-
+sondere die rasche Verabschiedung eines Datenschutz-
+auditausführungsgesetzes, die weitere Modernisierung
+und Fortentwicklung des Bundesdatenschutzgesetzes,
+die seit langem geforderte Verabschiedung eines Arbeit-
+nehmerdatenschutzgesetzes, sowie das Fortsetzen der
+Arbeiten an einem Gendiagnostikgesetz.
+
+Dabei kommt dem Datenschutz insgesamt inzwischen
+zugleich eine grundlegend neue Bedeutung als Wettbe-
+werbs- und Standortvorteil zu, die es – auch im Hinblick
+auf den europäischen und internationalen Kontext und
+im Interesse des Datenschutzes – zu nutzen gilt. Je län-
+ger die notwendige Modernisierung auf sich warten lässt
+– hier schließe ich mich uneingeschränkt dem 20. Tätig-
+keitsbericht des Bundesbeauftragten für den Datenschutz
+an – desto größer ist im Anschluss der gesetzgeberische
+Aufwand. Die Fraktion der SPD im Deutschen Bundes-
+tag wird sich dafür einsetzen, dass auch in einer weltweit
+vernetzten und digitalisierten Welt das Grundrecht auf
+informationelle und kommunikative Selbstbestimmung
+bewahrt bleibt.
+
+
+~~~

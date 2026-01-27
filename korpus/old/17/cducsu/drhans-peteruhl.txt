@@ -1,0 +1,673 @@
+~~~ 
+Dr. Hans-Peter Uhl   08.07.2010  17055.xml
+
+Das Europäische Parlament hat heute mit großer
+
+Mehrheit ein SWIFT-Abkommen angenommen, welches
+das Ergebnis eines langen und sorgfältigen Verhand-
+lungsprozesses ist. Dieses neue Abkommen war nötig
+geworden, nachdem das europäische Parlament im Fe-
+bruar 2010 das SWIFT-Interimsabkommen abgelehnt
+hatte, über das wir zuvor auch im Deutschen Bundestag
+leidenschaftlich debattiert hatten.
+
+Bereits bei der damaligen Debatte wurden zwei
+Dinge klargestellt:
+
+Erstens ist Kontodatenabfrage ein taugliches Mittel
+zur Terrorbekämpfung. Die Datenströme zur Finanzie-
+rung von Terrorismus zu erkennen, ist ein nützliches
+Mittel, um gegen Terroristen vorzugehen. Ein Beispiel
+für die erfolgreiche Nutzung von Finanztransaktionsda-
+ten in Deutschland ist das Verbot des Hamas-Spenden-
+sammelverein al-Aqsa, das tragend auf solchen Infor-
+mationen beruhte. In Großbritannien konnten geplante
+Terroranschläge auf Transatlantikflüge verhindert wer-
+den und auf dieser Grundlage drei Personen zu hohen
+Haftstrafen verurteilt werden.
+
+Zweitens steht aber auch fest, dass Kontodaten hoch-
+sensible persönliche Daten sind, die ein hohes Daten-
+schutzbedürfnis mit sich bringen. Zwar war eindeutig,
+dass ein SWIFT-Abkommen beiden Seiten ein höheres
+Maß an Rechtssicherheit geben würde als die Datenwei-
+tergabe in der Folgezeit des 11. September 2001 und
+auch besser wäre als die brieflichen Abmachungen zur
+Datenweitergabe des SPD-Ministers Steinbrück aus dem
+Jahr 2007, welches die ursprüngliche Grundlage des
+SWIFT-Abkommens darstellte. Trotzdem muss ein
+höchstmögliches Maß an Daten- und Rechtsschutzmög-
+lichkeiten für den Bürger im Mittelpunkt stehen.
+
+Deswegen habe ich bereits damals betont, dass es an
+den Parlamentariern des Europäischen Parlaments und
+des Bundestages wäre, in diesem Spannungsverhältnis
+zwischen Sicherheit und Datenschutz auf einen gangba-
+ren Kompromiss bei einem dauerhaften SWIFT-Abkom-
+men hinzuwirken.
+
+Neben den Abgeordneten des Bundestages und der
+deutschen Regierung haben sich die Abgeordneten des
+Europäischen Parlaments in dieser Frage als strenger
+Prüfstein erwiesen. Wegen Bedenken beim Daten- und
+Rechtsschutz haben sie das Interimsabkommen zu
+SWIFT am 11. Februar abgelehnt. Jedoch wurden we-
+gen der unbestreitbaren Wichtigkeit des Abkommens als-
+bald Neuverhandlungen mit den USA aufgenommen, in
+denen die Vorbehalte thematisiert wurden.
+
+Das vorgelegte neue SWIFT-Abkommen stellt ein re-
+spektables Ergebnis dieser Verhandlungen dar, was
+nicht zuletzt auch durch die breite Unterstützung von
+Christdemokraten, Liberalen und Sozialdemokraten bei
+der heutigen Annahme im Europäischen Parlament do-
+kumentiert wurde.
+
+Das Abkommen enthält insbesondere im Hinblick auf
+den Rechtsschutz und auf den Datenschutz deutliche
+Verbesserungen gegenüber dem Interimsabkommen.
+Hervorzuheben sind besonders folgende Verbesserun-
+gen:
+
+Jedes US-Ersuchen muss auch in Bezug auf die Da-
+tenarten spezifiziert und eingeschränkt werden. Die
+Menge der zu übermittelnden Daten ist möglichst gering
+zu halten. Eine noch im Interimsabkommen enthaltene
+Ausnahmeregelung, die es bei technischen Schwierig-
+keiten erlaubte, unspezifische Daten, die dem Ersuchen
+nicht entsprechen, im Paket zu übermitteln, ist nunmehr
+entfallen. Europol wird als zuständig erklärt, die US-Er-
+suchen auf Übereinstimmung mit dem Abkommen zu
+überprüfen. Europol besitzt dabei die Fachkunde, nöti-
+genfalls mit den USA auf Augenhöhe die dem Ersuchen
+zugrunde liegende Gefährdungsbewertung und den da-
+raus abgeleiteten Übermittlungsumfang zu diskutieren.
+Weiterhin wird eine Drittstaatenübermittlung nun
+grundsätzlich nur bei Zustimmung des jeweiligen Ur-
+sprungsstaats zulässig. Ausnahmen bestehen nur bei
+Gefahr im Verzug und bei dringenden schweren Gefah-
+ren. Berichtigungs-, Löschungs- und Sperrungsrechte
+können künftig – betroffenenfreundlich – jeweils über
+die Datenschutzbehörde des jeweiligen Mitgliedstaats
+geltend gemacht werden, die die Anfrage an das US-Fi-
+nanzministerium weiterleitet.
+
+Das Abkommen sieht in Art. 2 Abs. 1 vor, dass die
+Kommission binnen eines Jahres einen Entwurf hin-
+sichtlich der Einrichtung eines EU-Systems zur Extra-
+hierung spezifischer Daten vorlegen soll. Durch die
+Schaffung technischer und rechtlicher Möglichkeiten für
+die Extrahierung spezifischer Daten durch die EU selbst
+könnte der Übermittlungsumfang auf Verdachtsfälle re-
+duziert werden. Die Kommission wird dazu aufgefordert,
+drei Jahre nach Inkrafttreten des Abkommens einen Be-
+richt über den Fortgang der Einrichtung des EU-TFTP
+abzuliefern. Falls das vergleichbare EU-System fünf
+Jahre nach dem Inkrafttreten des Abkommens noch nicht
+aufgebaut worden ist, prüft die Union, ob das Abkom-
+men in Übereinstimmung mit Art. 21 Abs. 2 zu kündigen
+ist.
+
+Trotz dieser und weiterer Verbesserungen konnten lei-
+der nicht alle Verhandlungsleitlinien umgesetzt werden.
+Die Höchstspeicherdauer beträgt weiterhin fünf Jahre.
+Allerdings ist ein ausgefeilter Evaluierungsmechanis-
+mus vorgesehen, der die Speicherdauer laufend kritisch
+hinterfragt und gegebenenfalls revidiert. Beim gerichtli-
+chen Rechtsschutz ist es nach wie vor lediglich bei einer
+Verweisung auf US-Recht geblieben. Angesichts des
+sehr dichten Netzes administrativen Rechtsschutzes und
+der auch verfahrensmäßig starken Position der EU bei
+der Kontrolle der Vertragsdurchführung wird dies aber
+praktisch kompensiert.
+
+Zur weiteren Verbesserung der berechtigten Daten-
+schutzbedürfnisse des Einzelnen begrüßen wir aus-
+drücklich die Bemühungen der Europäischen Union um
+ein allgemeines Datenschutzabkommen zwischen der
+EU und den USA für polizeiliche und justizielle Zusam-
+menarbeit in Strafsachen. Das allgemeine Datenschutz-
+abkommen kann dazu beitragen, dass diesseits und jen-
+seits des Atlantiks ein hohes Datenschutzniveau bei der
+behördlichen Zusammenarbeit geschaffen wird und die
+Zu Protokoll gegebene Reden
+
+bereichsspezifischen Regelungen des SWIFT-Abkom-
+mens damit in ein umfassendes Datenschutzregime ein-
+gebettet werden. Wir bitten die Bundesregierung deswe-
+gen in unserem Antrag, ihre bisherigen Bemühungen in
+Richtung auf ein datenschutzfreundliches und dem Bun-
+desrecht Rechnung tragendes Datenschutzabkommen
+der Europäischen Union mit den Vereinigten Staaten von
+Amerika fortzusetzen.
+
+Das vorliegende SWIFT-Abkommen, insbesondere in
+Verbindung mit unserer fortgesetzten Arbeit und Auf-
+merksamkeit auf diesem Gebiet, ist ein Kompromiss zwi-
+schen Sicherheit und Datenschutz, der alle Seiten ange-
+messen berücksichtigt. Die Zustimmung im Rat und im
+Europäischen Parlament kann auch der Deutsche Bun-
+destag mit gutem Gewissen unterstützen.
+
+
+~~~~~~ 
+Dr. Hans-Peter Uhl   25.05.2011  17110.xml
+
+Herr Präsident! Meine verehrten Kolleginnen und
+
+Kollegen! Ich nehme an, dass die meisten von Ihnen
+schon die Erfahrung gemacht haben, dass antisemiti-
+sches Denken leider nicht nur der Vergangenheit an-
+gehört. Auch heute gibt es ein antisemitisches Grund-
+rauschen in unserer Gesellschaft. Wir erkennen dies an
+den Zuschriften, die wir erhalten, und an den Gesprä-
+chen, die wir mit Bürgern führen. Wir sehen es beim
+Blick auf anonyme Onlineforen. Wenn zum Beispiel im
+Mainstreammedium sueddeutsche.de ein Artikel über Is-
+rael verfasst wird und man die Spalte mit den anonymen
+Leserkommentaren liest, dann sieht man: Israel funktio-
+niert immer als Aufregerthema. Man spürt die emotio-
+nale Beteiligung und liest sehr merkwürdige Reaktionen.
+
+Natürlich kann man die israelische Regierung wegen
+ihrer Siedlungspolitik kritisieren, und man kann kritisie-
+ren, dass es hinsichtlich der Autonomie der Palästinenser
+keinen Fortgang gegeben hat. Das alles sind Themen,
+mit denen sich Außenpolitiker auf der ganzen Welt seit
+vielen Jahren befassen. Aber es geht hier und heute um
+etwas anderes: Es geht um Antisemitismus. Er kommt
+heute nicht mehr so plump daher wie in der deutschen
+Vergangenheit zu Zeiten der Nationalsozialisten. Viel-
+mehr verkleidet er sich und kommt in Gestalt der Kritik
+an Israel daher. In Wahrheit ist es eine Kritik, die häufig
+judenfeindlich ist und eine antisemitische Ideologie als
+Muster hat.
+
+Die Reden gehen immer in die gleiche Richtung. Die
+Politik des Staates Israel wird besonders kritisiert. Die
+israelische Regierung, der Staat Israel, hat eine Sonder-
+rolle als Sündenbock. So wie früher die Juden von den
+Nazis für andersartig erklärt wurden, so wird heute der
+Staat Israel von diesen Leuten als andersartig, als anders
+als alle anderen Staaten bezeichnet und mit besonderer
+
+Schuld beladen. Das ist die Grauzone, in der sich die
+Antisemiten von heute bewegen. Diese Grauzone gibt es
+in allen Schichten, in allen Bereichen, von Links bis
+Rechts, in bürgerlichen Kreisen ebenso. Deswegen ist es
+umso wichtiger, dass jeder von uns, wir alle, in dieser
+Grauzone für Klarheit sorgen, dass wir jedes Wort unter-
+lassen, das antisemitisches Denken und antisemitisches
+Reden bedient, das antisemitisches Denken und Reden
+anheizt oder gar aufwertet. Das ist das Problem, über das
+wir reden sollten, wenn wir uns dieses Thema bei der
+Linkspartei genauer anschauen.
+
+Es ist das Verdienst einer neuen Studie von Politolo-
+gen, die alle Vorkommnisse bei der Linkspartei auf die-
+sem Gebiet analysiert haben. Es geht um die infamen
+Gleichsetzungen und Relativierungen zwischen Juden
+oder Israel und den Nazis. Wenn Sie auf die Homepage
+der Duisburger Linken gehen, dann sehen Sie tatsächlich
+folgendes Bild:
+
+(Der Redner hält ein Schaubild hoch)
+
+ein Judenstern, der in das Hakenkreuz übergeht, bzw. ein
+Hakenkreuz, das in den Judenstern übergeht; zu sehen
+auf der Homepage des Kreisverbandes Duisburg.
+
+(Zurufe von der CDU/CSU und der FDP: Pfui! –
+Dr. Dagmar Enkelmann [DIE LINKE]: Da
+gibt es eine Strafanzeige!)
+
+Wenn Sie das auf sich wirken lassen und wenn Sie sich
+das Verbrechen der Deutschen, der Nazis an den Juden
+in Erinnerung rufen, dann merken Sie, wie infam dieses
+Vorgehen ist.
+
+(Beifall bei der CDU/CSU, der SPD und der
+FDP)
+
+Es gibt eine Fülle von weiteren Beispielen. Ob das
+Äußerungen der Bundestagsabgeordneten der Linken
+Christine Buchholz sind, denen niemals widersprochen
+wurde; ob es die imperialistische Weltverschwörung ist,
+der man Israel im Verbund mit den USA zeiht, oder ob
+es die Bundestagsabgeordneten sind, die auf dem Schiff
+der Gaza-Solidaritätsflotte im Mai letzten Jahres unter-
+wegs waren: Es sind immer die gleichen Themen, immer
+die gleichen bekannten Gesichter, und es sind immer
+linke Abgeordnete des Deutschen Bundestages dabei.
+
+(Zuruf von der FDP: So ist es!)
+
+Dies alles ist seit Jahren bekannt, und die Parteiführung
+der Linken schweigt.
+
+(Zuruf von der LINKEN: Das stimmt nicht!)
+
+Wenn man genauer hinschaut, stellt man fest: Sie
+schweigt nicht ganz. Eine Doppelstrategie wird erkenn-
+bar: Auf der Vorderseite des linken Hauses steht Herr
+Gysi auf dem Balkon, warnt vor Antisemitismus und bit-
+tet um den Konsens aller Demokraten im Kampf gegen
+den Antisemitismus. Das ist die Vorderseite des linken
+Hauses: Gregor Gysi.
+
+(Beifall der Abg. Beatrix Philipp [CDU/CSU])
+
+Im Hinterhof gibt es ganz andere. Da gibt es die notori-
+schen Israelkritiker vom Schlage eines Norman Paech,
+die sich austoben dürfen und die immer wieder als Anti-
+semiten in Erscheinung treten.
+
+(Dr. Dagmar Enkelmann [DIE LINKE]: Uner-
+hört! – Dr. Lukrezia Jochimsen [DIE LINKE]:
+Er ist kein Antisemit!)
+
+In Wahrheit dürfen sie das machen, weil sie im Spek-
+trum des Antisemitismus nach Wählerstimmen fischen
+und auch dieses Gebiet abdecken wollen. Das ist die
+Doppelstrategie der Linken, und die gilt es zu brandmar-
+ken. Das ist heute unsere Aufgabe.
+
+(Beifall bei der CDU/CSU und der FDP –
+Dr. Dagmar Enkelmann [DIE LINKE]: Viel-
+leicht sollten Sie sich informieren! Erklärung
+des Parteivorstands vom Montag!)
+
+Ich komme zum Schluss. Es ist unsere historische
+Verantwortung, dass wir jede Form von Antisemitismus
+in diesem Haus, in jeder Partei und in allen gesellschaft-
+lichen Schichten aufdecken, brandmarken und ächten.
+Das ist unsere Aufgabe. Wer dabei nicht mitmacht, wer
+in den antisemitischen Wählerschichten fischen will,
+klammheimlich, der ist kein ehrbares Mitglied dieses
+Hohen Hauses.
+
+(Beifall bei der CDU/CSU und der FDP –
+Dr. Dagmar Enkelmann [DIE LINKE]: Und
+auch kein Linker! Richtig!)
+
+
+~~~~~~ 
+Dr. Hans-Peter Uhl   06.07.2011  17119.xml
+
+Frau Präsidentin! Meine verehrten Kolleginnen und
+
+Kollegen! Spiegel Online berichtete in diesen Tagen:
+
+In Saudi-Arabien wächst die Angst vor den irani-
+schen Atomplänen.
+
+Focus Online meldet:
+
+Irans Revolutionsgarden demonstrieren militärische
+Stärke  …
+Es wird von unterirdischen Raketensilos berichtet, in de-
+nen Langstreckenraketen stationiert sind. Mit den Rake-
+ten könnte man Israel oder US-Stützpunkte in Afghanis-
+tan erreichen. Ein iranischer General tönt:
+
+Unsere Raketen wurden genau dafür entwickelt,
+potenzielle Bedrohungen durch die USA und das
+zionistische Regime zum Ziel zu nehmen.
+
+Das ist die Lage, in der sich diese Region derzeit befin-
+det, und über diese Lage müssen wir sprechen. Wir müs-
+sen uns die Frage stellen: Was ist aus Sicht der deutschen
+Bundesregierung auf dem Gebiet der Rüstungsexporte
+angezeigt?
+
+(Dr. Frithjof Schmidt [BÜNDNIS 90/DIE
+GRÜNEN]: Jetzt wird es spannend!)
+
+Natürlich ist das Thema Menschenrechte in Saudi-
+Arabien anzusprechen, wie in allen anderen Ländern
+auch, die wir bereisen und die übrigens auch Ihr früherer
+Kanzler bereist hat. Ich denke zum Beispiel an China.
+Dort war ich mit ihm zweimal unterwegs. Menschen-
+rechtsverletzungen müssen immer angesprochen wer-
+den. Dennoch müssen wir uns der realpolitischen Situa-
+tion stellen
+
+(Zurufe von der SPD und dem BÜNDNIS 90/
+DIE GRÜNEN: Aha!)
+
+und uns überlegen: Welche Verantwortung übernehmen
+wir, und was tun wir, um in dieser gefährlichen Lage zu
+helfen?
+
+(Zuruf von der LINKEN: Wem helfen Sie
+denn?)
+
+In diesem Zusammenhang sind Ägypten – vom arabi-
+schen Frühling war die Rede –, Syrien, Jemen und
+Libyen zu nennen; alles hochproblematische Länder.
+
+(Dr. Frithjof Schmidt [BÜNDNIS 90/DIE
+GRÜNEN]: Aber Saudi-Arabien!)
+
+Keiner weiß, wie sich die Dinge dort entwickeln werden.
+
+(Wolfgang Gehrcke [DIE LINKE]: Was heißt
+das?)
+
+– Was heißt das? Das heißt, in der jetzigen Situation
+müssen wir uns überlegen, wer ein potenzieller starker
+Verbündeter ist, ein Stabilitätsfaktor, der helfen kann,
+diese Region einigermaßen im Lot zu halten. Das ist die
+Lage, in der wir uns befinden. Deswegen bin ich froh da-
+rüber, dass eine solche Entscheidung nicht in diesem
+Parlament mit derartigen Redebeiträgen, wie wir sie
+eben gehört haben, gefällt wird.
+
+(Widerspruch bei der SPD, der LINKEN und
+dem BÜNDNIS 90/DIE GRÜNEN – Lachen
+der Abg. Claudia Roth [Augsburg] [BÜND-
+NIS 90/DIE GRÜNEN])
+
+– Frau Roth, ich verstehe zwar, dass man als gelernte
+Dramaturgin auf Knopfdruck hysterische Anfälle be-
+kommen und sich furchtbar erregen kann,
+
+(Heiterkeit und Beifall bei Abgeordneten der
+CDU/CSU und der FDP – Jürgen Trittin
+
+[BÜNDNIS 90/DIE GRÜNEN]: Das geht aber
+zu weit!)
+
+aber das ist nicht die Art, wie man mit solchen Themen
+umgeht.
+
+Ich verstehe auch nicht, woher Herr Trittin die
+Chuzpe zu solchen Auftritten nimmt, wie er ihn sich
+eben geleistet hat. Wo waren Sie denn, Herr Trittin, als
+von der rot-grünen Regierung die genannten Waffen an
+Saudi-Arabien geliefert wurden, mit denen man typi-
+scherweise gegen Demonstranten vorgeht?
+
+(Philipp Mißfelder [CDU/CSU]: Hört! Hört! –
+Dr. Johann Wadephul [CDU/CSU]: Sehr be-
+rechtigte Frage!)
+
+Sie haben Handfeuerwaffen, Zielfernrohre und Maschi-
+nenpistolen geliefert. Ich glaube nicht, dass ich alles
+noch einmal aufzählen muss. Darüber ist bereits berich-
+tet worden. Oder lesen Sie die Statistik der Rüstungs-
+exporte unter Rot-Grün? Im Jahr 2000 haben Sie für
+5,9 Milliarden D-Mark Rüstung exportiert, Herr Trittin.
+Wissen Sie das nicht mehr?
+
+(Beifall bei Abgeordneten der FDP)
+
+Unter Helmut Kohl ein Jahr davor waren es 1,9 Milliar-
+den D-Mark. Nehmen Sie das zur Kenntnis, und lassen
+Sie solche Auftritte, wie Sie ihn sich hier geleistet ha-
+ben; das ist nämlich Heuchelei.
+
+Ich kann mir nicht vorstellen, dass in den Parlamenten
+in Frankreich oder in den USA – 300 französische Pan-
+zer und 300 amerikanische Panzer sind nach Saudi-Ara-
+bien geliefert worden – eine solche Diskussion geführt
+wird, wie Sie sie hier anzetteln.
+
+(Beifall bei Abgeordneten der CDU/CSU und
+der FDP – Claudia Roth [Augsburg] [BÜND-
+NIS 90/DIE GRÜNEN]: Schlimm! –
+Heidemarie Wieczorek-Zeul [SPD]: Das
+spricht für den Deutschen Bundestag!)
+
+Es geht um etwas anderes – um etwas mehr Ehrlichkeit
+in die Debatte zu bringen –: Meine Damen und Herren
+von der SPD, ich kenne doch Ihre Gespräche über Rüs-
+tungsexporte mit Ihren Freunden von der IG Metall. Wir
+wissen doch, wie Sie da herumeiern und um Antworten
+ringen, wenn die Gewerkschafter sagen, dass wir unsere
+Arbeitsplätze in den Bereichen sichern müssen, in denen
+wir Deutsche Kernkompetenz haben. Es ist doch kein
+Zufall, dass wir in Deutschland den zugegebenermaßen
+technisch besten Panzer herstellen; denn hier gibt es die
+beste Technologie. Es ist kein Zufall, dass von derselben
+Firma auch der Dingo hergestellt wird – in diesem Fahr-
+zeug kam in Afghanistan zum Glück noch keiner unserer
+Soldaten zu Tode –; denn unsere gepanzerten Fahrzeuge
+werden mit höchstmöglicher Perfektion hergestellt.
+Diese technologische Kernkompetenz will die IG Metall
+übrigens erhalten, meine Damen und Herren von der
+SPD. Reden Sie also mit ihnen und geben Sie vernünf-
+tige Antworten.
+
+(Dr. Rolf Mützenich [SPD]: Ziehen Sie die Ge-
+werkschaften nicht in Ihren Sumpf hinein!)
+
+– Nein, wir sollten ehrlich und nicht heuchlerisch sein.
+Herr Gabriel, Sie haben bei diesem Thema ja sogar
+den Papst bemüht.
+
+(Philipp Mißfelder [CDU/CSU]: Pfui!)
+
+Im Kürschner konnte ich nichts über Ihren Katholizis-
+mus finden. Vermutlich sind Sie konfessionslos.
+
+(Lachen bei der SPD und dem BÜNDNIS 90/
+DIE GRÜNEN)
+
+Das ist ja auch egal; denn es ist Ihre Sache. Aber lassen
+Sie doch den Papst beiseite, wenn es um solch schwie-
+rige Fragen geht.
+
+(Jürgen Trittin [BÜNDNIS 90/DIE GRÜ-
+NEN]: Er ist evangelisch! – Claudia Roth
+[Augsburg] [BÜNDNIS 90/DIE GRÜNEN]:
+Was ist das für eine christliche Lehre, die Sie
+vertreten?)
+
+Also Schluss mit der Heuchelei! Ich bitte um Ihr Be-
+kenntnis zu einer vernünftigen, realitätsbezogenen Ein-
+stellung zu diesem in der Tat schwierigen Thema.
+
+(Claudia Roth [Augsburg] [BÜNDNIS 90/DIE
+GRÜNEN]: Gut, dass sich die christlichen
+Kirchen zu dem Thema geäußert haben!)
+
+Die Menschenrechtslage ist schwierig – Stichwort „ara-
+bischer Frühling“ –, das ist uns allen vollkommen klar.
+Es ist gut so, dass die Entscheidung nicht hier, sondern
+im Sicherheitsrat getroffen wird.
+
+(Beifall bei der CDU/CSU und der FDP –
+Claudia Roth [Augsburg] [BÜNDNIS 90/DIE
+GRÜNEN]: Warum sind Sie eigentlich Abge-
+ordneter?)
+
+
+~~~~~~ 
+Dr. Hans-Peter Uhl   26.01.2012  17155.xml
+
+Herr Kollege Gysi, Sie haben nicht recht mit Ihrer Be-
+
+hauptung, Sie hätten nicht zum Antisemitismus in der
+Partei Die Linke gesprochen. Ich habe hier eine Rede in
+der Hand, gehalten am 14. April 2008, Überschrift: „Die
+Haltung der deutschen Linken zum Staat Israel“. Dort
+haben Sie, angesichts 60 Jahre Israel, umfangreich über
+13 Seiten dargestellt, worin die Probleme der antisemiti-
+schen Kräfte in der Partei Die Linke
+
+(Dr. Gregor Gysi [DIE LINKE]: In der deut-
+schen Linken!)
+
+im Umgang mit dem Staat Israel bestehen. Sie haben
+sehr sensibel und sehr klug herausgearbeitet, dass Anti-
+semitismus heute immer wieder als antiisraelische Poli-
+tik verkleidet in Erscheinung tritt, auch in Ihrer Partei.
+
+Sie haben dann herausgearbeitet – auch mit Recht –,
+dass es zur Staatsräson dieser Bundesrepublik Deutsch-
+land gehört, das Existenzrecht Israels nicht zu verneinen,
+sondern zu bejahen, dass es zur Staatsräson dieser Repu-
+blik gehört, Solidarität mit den Juden im Staate Israel zu
+üben. Sie haben gesagt, wenn die Partei Die Linke mit
+dieser Staatsräson nicht im Reinen sei – und sie ist nicht
+im Reinen, sonst hätten Sie die Rede nicht halten
+müssen –, dann werde sie niemals in Deutschland eine
+Regierungsbeteiligung organisieren können.
+
+(Beifall bei der CDU/CSU – Alexander
+Süßmair [DIE LINKE]: Das ist eine Unterstel-
+lung!)
+
+
+~~~~~~ 
+Dr. Hans-Peter Uhl   13.06.2013  17246.xml
+
+Herr Präsident! Meine verehrten Kolleginnen und
+
+Kollegen! Dass wir heute über wiedererstarkendes jüdi-
+sches Leben in Deutschland debattieren können, ist eine
+der glücklichsten und wohl auch erstaunlichsten Ent-
+wicklungen in der Geschichte der Bundesrepublik
+Deutschland. Diese Entwicklung ist alles andere als
+selbstverständlich, auch fast 70 Jahre nach dem Ende
+von Rassenwahn und NS-Herrschaft. Wir sollten heute
+nicht das Trennende herausarbeiten – das gilt auch für
+Sie, Herr Beck –, sondern sollten zufrieden sein, dass es
+uns gelungen ist, einen gemeinsamen fraktionsübergrei-
+fenden Antrag zu formulieren, der Ausdruck der Ent-
+schlossenheit dieses Parlamentes ist, gemeinsam jede
+Form von Antisemitismus zu bekämpfen.
+
+Ich meine, es ist nicht ganz so gewesen, wie es Frau
+Kollegin Pau dargestellt hat hinsichtlich der Abfassung
+des letzten Antrags im Jahre 2008; es würde jetzt zu weit
+führen, das alles herauszuarbeiten.
+
+(Dr. Petra Sitte [DIE LINKE]: Jetzt behaupten
+Sie etwas und belegen es nicht!)
+
+Ich möchte an die Rede Ihres damaligen Parteivorsit-
+zenden Gysi erinnern, die er vor der Rosa-Luxemburg-
+Stiftung gehalten hat, in der er Ihre Partei ermahnt hat,
+dass sie in der politischen Parteienlandschaft Deutsch-
+lands erst dann Fuß fassen könne, wenn sie ihr Verhält-
+nis zum Judentum und zum Staate Israel ins Reine ge-
+bracht habe. Das ist die Botschaft einer großen und
+guten Rede von Gregor Gysi, adressiert an Ihre eigenen
+Parteifreunde.
+
+(Dr. Petra Sitte [DIE LINKE]: Das ist doch
+völlig in Ordnung!)
+
+Da ist etwas aufzuarbeiten. Das sollten Sie hier nicht
+kleinreden.
+
+Meine Damen und Herren, es muss uns allen aber
+auch klar sein, dass man Antisemitismus nicht mit Pa-
+pieren oder politischen Bekenntnissen bekämpfen kann;
+man muss sich vielmehr die Mühe machen, auf lokaler
+Ebene ganz gezielte Maßnahmen zu ergreifen. Dort, wo
+Antisemitismus anzutreffen ist, muss er bekämpft wer-
+den. Damit sind wir Parlamentarier im Bundestag natür-
+lich nicht die erste Adresse. Das muss über die Länder
+auf die Ebene der Kommunen heruntergebrochen wer-
+den und zum Beispiel in den Schulen angegangen wer-
+den, also überall dort, wo man Antisemitismus antreffen
+kann.
+
+Der Bericht, den wir bekommen haben, ist eine um-
+fassende wissenschaftliche Darstellung aller Formen von
+Antisemitismus. Er liest sich wie ein Kompendium.
+Aber das ist nicht die Lösung. Wir müssen uns auf der
+Basis dieses Berichtes ganz konkrete Maßnahmen aus-
+denken.
+
+(Dr. Petra Sitte [DIE LINKE]: Dann machen
+Sie es doch!)
+
+Es gibt auch neue Formen des Antisemitismus; darauf
+haben die meisten Redner hingewiesen. Auch das gilt es
+zu beachten: Neben dem Schwerpunkt des Antisemitis-
+mus im Rechtsextremismus – ganz selbstverständlich –
+
+gibt es eben auch in Teilen der Migrationsgemeinde in
+Deutschland neue Formen des Antisemitismus. Dies
+muss beachtet werden, muss bekämpft werden. Es muss
+hinterfragt werden, wie es dazu kommen konnte. Wir
+alle sind dazu aufgerufen, wachsam zu sein.
+
+Die Anschläge auf die Rabbiner möchte ich jetzt nicht
+noch einmal ausführlich darstellen; sie wurden schon er-
+wähnt. Vielmehr möchte ich auf Sender wie Al-Aqsa,
+der von der Hamas betrieben wird, oder den libanesi-
+schen Hisbollah-Sender Al-Manar hinweisen, über die
+Antisemitismus aus der Ecke des Islamismus in unsere
+Wohnzimmer und in die muslimischen Gemeinden in
+Deutschland hineingetragen wird und vor allem bei der
+Jugend ankommt. Dadurch erklärt sich auch der eine
+oder andere Übergriff aus diesem Milieu auf Juden in
+Deutschland. Es ist auch unsere Aufgabe, hier gegenzu-
+steuern, diese Szene zu beobachten, weil es eine große
+Population gibt, die dafür anfällig sein könnte.
+
+(Beifall bei der CDU/CSU)
+
+Das heißt, der ungelöste Nahostkonflikt spielt auch hier
+eine große Rolle. Es muss in den Schulen aufgeklärt
+werden und alles dafür getan werden, um hier keinen
+neuen Antisemitismus in Deutschland entstehen zu las-
+sen.
+
+Toleranz, Miteinander in den Kommunen, das muss
+den jungen Menschen beigebracht werden. Die Frage,
+wie wir dies tun können, ist schwierig zu beantworten.
+
+Lassen Sie mich kurz berichten. Ich war in den
+Pfingstferien wieder mit zwei befreundeten jüdischen
+Familien privat in Israel und Jerusalem und – natürlich –
+auch wieder einmal in Yad Vashem, wie sicherlich viele
+von Ihnen auch schon in Yad Vashem waren. Man muss
+dieses Monument und Museum der entsetzlichen deut-
+schen Geschichte, des Holocausts auf sich wirken lassen.
+Das beginnt schon mit der architektonischen Wucht die-
+ses Museums. Es wurde wie die Klinge eines Messers,
+mit der Spitze nach oben, auf einem Höhenrücken er-
+richtet. Darin wird man durch die Dunkelheit der deut-
+schen Geschichte der Nazizeit geführt, übrigens nicht
+beginnend mit Hitler, sondern mit der Epoche und den
+Jahren davor, die zu Hitler geführt haben. Das ist auch
+sehr interessant zu sehen. Da hängt ein Plakat aus der
+Weimarer Zeit, auf dem steht: „Jetzt kann nur noch
+Adolf Hitler helfen!“, um die Stimmung aus den 20er-
+Jahren aufzugreifen. Man erfährt auch, dass Hitlers Mein
+Kampf, wo alles angekündigt wurde, nicht gelesen
+wurde, weil man glaubte, jetzt könne nur noch er helfen.
+Wie es dazu kam, wird eindrucksvoll dargestellt. Dann
+geht es weiter durch die 30er-Jahre in Wort und Ton, auf
+erschütternde, ergreifende Weise.
+
+Ich glaube, wer dieses Museum in seinem Leben auch
+nur einmal gesehen hat, dem brennt sich in die Seele ein,
+dass es in Deutschland niemals wieder solches Gedan-
+kengut geben darf. Deswegen sollte man alle zu einem
+Besuch aufrufen. Yad Vashem ist ein Muss für jeden
+Deutschen. Das muss man auf sich wirken lassen.
+
+(Beifall bei der CDU/CSU sowie bei Abgeord-
+neten der SPD, der FDP und des BÜNDNIS-
+SES 90/DIE GRÜNEN)
+Diese Architektonik ist auch deswegen so beeindru-
+ckend, weil sich, wenn man durch diese dreieckige Be-
+tonschlucht hindurchgegangen ist, am Ende die Beton-
+mauer öffnet und man vor einem weiten, grünen Tal
+steht – und über einem der blaue Himmel. Es öffnet sich
+der Weg in eine bessere Welt, in eine Welt ohne Antise-
+mitismus. Dafür sollten wir alle miteinander arbeiten.
+
+(Beifall bei der CDU/CSU und der FDP sowie
+bei Abgeordneten der SPD und des BÜND-
+NISSES 90/DIE GRÜNEN)
+
+
+~~~
