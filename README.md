@@ -8,8 +8,8 @@ Der Ordner "Korpus" beinhaltet den finalen Korpus im unterordner "final"
 Die Zwischenergebnisse des Korpus, vor seiner finalen Speicherung als XML datei sind im Unterordner "old"  
 Der Unterordner "protokolle/gefiltert" beinhaltet die vorgefilterten Bundestagsprotokolle  
 
-Der Ordner "pythonskripte_und_pickledateien" beinhaltet die für die Arbeit geschriebenen python Skripte und durch diese erstellen Pickledateien  
-über die viele der Zwischenprodukte gespeichert wurden.  
+Der Ordner "pythonskripte_und_pickledateien" beinhaltet die für die Arbeit geschriebenen python Skripte und durch diese erstellen 
+Pickledateien über die viele der Zwischenprodukte gespeichert wurden.    
 zu den Pythonskripten:  
 "convert_to_xml.py" konvertiert den Korpus aus seinem vorläufigen Format als TXT Dateien in eine XML Datei  
 "get_sentences.py" nimmt die Reden aus dem Korpus und erzeugt ein Dict mit den Reden der Parteien, geteilt in einzelne Sätze, dies ist wichtig für die Sentiment-Analyse
